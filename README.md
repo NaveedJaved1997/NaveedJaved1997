@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NaveedJaved1997
 - 👀 I’m interested in Programming and developement
-- 🌱 I’m currently learning PHP Laravel 8
-- 💞️ I’m looking to collaborate on PHP, C, C++
+- 🌱 I’m currently learning Vuejs & Laravel8
+- 💞️ I’m looking to collaborate on PHP, Wordpress, C, C++
 - 📫 How to reach me : Email -> njgujjar345@gmail.com
 
 <!---
